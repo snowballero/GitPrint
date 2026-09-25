@@ -8,7 +8,7 @@
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#usage">Usage</a>
     <a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://github.com/snowballero/MintVaulty-Python/blob/main/LICENSE">License</a>
+    <a href="https://github.com/snowballero/GitPrint/blob/main/LICENSE">License</a>
   </div>
 </p>
 <h1 id="Install">Installation</h1>
