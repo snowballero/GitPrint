@@ -1,6 +1,15 @@
 <h1 align="center">Github profile information tool.</h1>
-
-<h1>Installation</h1>
+<p align="center">
+  <br>
+  <div align="center">
+    <a href="#Install">Install</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#usage">Usage</a>
+    <a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://github.com/snowballero/MintVaulty-Python/blob/main/LICENSE">License</a>
+  </div>
+</p>
+<h1 id="Install">Installation</h1>
 <h3>Windows</h3>
 
 1. Clone the repo
@@ -30,7 +39,7 @@ cd gitprint
 ```bash
 python3 gitprint.py
 ```
-
+<br>
 <h3>Or use an all in one command</h3>
 <h2>Windows</h2>
 
