@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">Github profile information tool.</h1>
 <p align="center">
-  <br>
   <div align="center">
     <a href="#Install">Install</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
