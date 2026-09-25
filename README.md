@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitprint.png" width="400">
+  <img src="gitprintv2.png" width="400">
 </p>
 <h1 align="center">Github profile information tool.</h1>
 <p align="center">
