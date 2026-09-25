@@ -1,4 +1,4 @@
-<img src="gitprint.png" width="125">
+<img src="gitprint.png" width="125" align="center">
 <h1 align="center">Github profile information tool.</h1>
 <p align="center">
   <br>
