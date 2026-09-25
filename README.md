@@ -1,5 +1,6 @@
 <h1 align="center">Github profile information tool.</h1>
-<h1 Installation></h1>
+
+<h1>Installation</h1>
 <h3>Windows</h3>
 
 1. Clone the repo
