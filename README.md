@@ -1,1 +1,1 @@
-<h1 style="align-text: center">Github profile information tool. </h1>
+<h1 style="text-align: center">Github profile information tool.</h1>
