@@ -54,3 +54,9 @@ git clone https://github.com/snowballero/gitprint; cd gitprint; python gitprint.
 ```bash
 git clone https://github.com/snowballero/gitprint && cd gitprint && python3 gitprint.py
 ```
+
+<h1>Usage</h1>
+<h3>python(3) gitprint.py</h3>
+<h3>Input: [user]</h3>
+<img width="570" height="400" alt="example" src="https://github.com/user-attachments/assets/37ce1dcd-1bfc-420f-ab5a-3cd05b5198b5" />
+
