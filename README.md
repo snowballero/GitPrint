@@ -42,7 +42,7 @@ cd gitprint
 python3 gitprint.py
 ```
 <br>
-<h3>Or use an all in one command</h3>
+<h3>Or use an all-in-one command</h3>
 <h2>Windows</h2>
 
 ```bash
