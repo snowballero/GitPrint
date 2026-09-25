@@ -1,7 +1,7 @@
 <p align="center">
   <img src="gitprintv2.png" width="400">
 </p>
-<h1 align="center">Github profile information tool.</h1>
+<h3 align="center">Github profile information tool.</h3>
 <p align="center">
   <div align="center">
     <a href="#Install">Install</a>
