@@ -11,6 +11,8 @@
     <a href="https://github.com/snowballero/GitPrint/blob/main/LICENSE">License</a>
   </div>
 </p>
+<h1>About GitPrint</h1>
+<h3>GitPrint is a simple tool used for getting an users information easily. You can get things like username, bio, public repos etc. and all of that of course, open source. <3</h3>
 <h1 id="Install">Installation</h1>
 <h3>Windows</h3>
 
